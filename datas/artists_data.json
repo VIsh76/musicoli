@@ -1,0 +1,14 @@
+[
+    {
+        "name": "No Artist Found with excluded",
+        "genres": [
+            "[]"
+        ]
+    },
+    {
+        "name": "No Artist Found with only included genres",
+        "genres": [
+            "['aak', 'aor']"
+        ]
+    }
+]

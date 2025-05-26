@@ -1,0 +1,1 @@
+https://musicbrainz.org/ws/2/artist?query=tag%3Aaak%20AND%20tag%3Aaor&fmt=json&limit=100
